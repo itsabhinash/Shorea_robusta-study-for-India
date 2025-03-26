@@ -1,4 +1,4 @@
-# Bamboo Study for India
+# Shorea robusta Study for India
 
 This project uses Google Earth Engine (GEE) and geospatial data analysis tools to model Shorea robusta distribution by using spectral and backscatter parameters for India. The workflow includes importing, processing, and exporting geospatial datasets to facilitate Shorea robusta-related studies. Additionally, it incorporates a machine learning model for predictive analysis using Random Forest.
 
